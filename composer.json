@@ -1,0 +1,16 @@
+{
+    "name": "acer/php_store4",
+    "description": "Loja em Php",
+    "authors": [
+        {
+            "name": "Franklin Silva",
+            "email": "pdv.franksilva@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "core\\" : "core/"
+        }
+    }
+}
